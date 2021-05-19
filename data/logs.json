@@ -15,7 +15,23 @@
         "successRate": 100,
         "completed": true
       }
+    },
+    {
+      "id": 2,
+      "config": {
+        "bundlesPerMin": 200,
+        "testDurationInMins": 30,
+        "dataCheckpointInterval": 1,
+        "startedAt": 1621387753
+      },
+      "status": {
+        "lastUpdated": 1621389774,
+        "bundlesSent": 6000,
+        "bundlesReceived": 6000,
+        "successRate": 100,
+        "completed": true
+      }
     }
   ],
-  "testsRun": 1
+  "testsRun": 2
 }
