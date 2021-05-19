@@ -1,0 +1,21 @@
+{
+  "testReports": [
+    {
+      "id": 1,
+      "config": {
+        "bundlesPerMin": 200,
+        "testDurationInMins": 2,
+        "dataCheckpointInterval": 1,
+        "startedAt": 1621387142
+      },
+      "status": {
+        "lastUpdated": 1621387285,
+        "bundlesSent": 400,
+        "bundlesReceived": 400,
+        "successRate": 100,
+        "completed": true
+      }
+    }
+  ],
+  "testsRun": 1
+}
